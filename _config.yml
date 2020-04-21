@@ -7,29 +7,27 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyller.github.io/vitae
+url: http://hodaesfahani.github.io/cv
 author: Fábio Madeira
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+baseurl: /cv/
+title: Hoda Esfahani's Resume
+name: Hoda Esfahani
+email: hoda.esfahani@integrify.io
+email_full: mailto:hoda.esfahani@integrify.io
+github: hodaesfahani
+linkedin: hoda-esfahani
+tel: +358 41 725 75 98
+tel_full: tel:+358 41 725 75 98
+google_maps: 'https://goo.gl/maps/Vx3CqwB25K9u3VXm6'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: Harjuviita 14 A 2
+  postcode: '02110'
+  city: Espoo
+  country: Finland
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
