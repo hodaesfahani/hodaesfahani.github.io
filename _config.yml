@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://hodaesfahani.github.io/cv
+url: http://hodaesfahani.github.io
 author: Fábio Madeira
 
 # edit this section with your information
